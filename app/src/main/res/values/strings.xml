@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">5am Klub</string>
+    <string name="quote_string1">"Out of the mountain despair, a stone of hope."
+      <b>\n\n - Martin Luther King Jnr </b>
+    </string>
+    <string name="quote_string2">"When you have a dream, you’ve got to grab it and never let go."
+        <b>\n\n - Carol Burnett </b>
+    </string>
+    <string name="quote_string3">"Nothing is impossible. The word itself says ‘I’m possible!."
+        <b>\n\n - Audrey Hepburn </b>
+    </string>
+    <string name="quote_string4">"There is nothing impossible to they who will try."
+        <b>\n\n — Alexander the Great</b>
+    </string>
+    <string name="quote_string5">"The bad news is time flies. The good news is you’re the pilot."
+        <b>\n\n — Michael Altshuler </b>
+    </string>
+    <string name="quote_string6">"Life has got all those twists and turns. You’ve got to hold on tight and off you go."
+        <b>\n\n — Nicole Kidman </b>
+    </string>
+    <string name="quote_string7">"For me, becoming isn’t about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn’t end."
+        <b>\n\n — Michelle Obama </b>
+    </string>
+    <string name="quote_string8">"Do not allow people to dim your shine because they are blinded. Tell them to put some sunglasses on."
+        <b>\n\n — Lady Gaga</b>
+    </string>
+    <string name="quote_string9">"Learning how to be still, to really be still and let life happen—that stillness becomes a radiance."
+        <b>\n\n — Morgan Freeman</b>
+    </string>
+    <string name="quote_string10">"In a gentle way, you can shake the world."
+        <b>\n\n — Mahatma Gandhi </b>
+    </string>
+    <string name="quote_string11">"All you need is the plan, the road map, and the courage to press on to your destination."
+        <b>\n\n — Earl Nightingale </b>
+    </string>
+    <string name="quote_string12">"I care about decency and humanity and kindness. Kindness today is an act of rebellion."
+        <b>\n\n - Pink </b>
+    </string>
+    <string name="quote_string13">"If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely."
+        <b>\n\n — Roald Dahl</b>
+    </string>
+    <string name="quote_string14">"Try to be a rainbow in someone’s cloud."
+        <b>\n\n — Maya Angelou </b>
+    </string>
+    <string name="quote_string15">"We must let go of the life we have planned, so as to accept the one that is waiting for us."
+        <b>\n\n — Joseph Campbell </b>
+    </string>
+    <string name="quote_string16">"Real change, enduring change, happens one step at a time."
+        <b>\n\n — Ruth Bader Ginsburg </b>
+    </string>
+    <string name="quote_string17">"Wake up determined, go to bed satisfied."
+        <b>\n\n — Dwayne “The Rock” Johnson </b>
+    </string>
+    <string name="quote_string18">"When you have a dream, you’ve got to grab it and never let go."
+        <b>\n\n Carol Burnett </b>
+    </string>
+    <string name="quote_string19">"“Nobody built like you, you design yourself."
+        <b>\n\n — Jay-Z </b>
+    </string>
+    <string name="quote_string20">"I tell myself, ‘You’ve been through so much, you’ve endured so much, time will allow me to heal, and soon this will be just another memory that made me the strong woman, athlete, and mother I am today."
+        <b>\n\n — Serena Williams </b>
+    </string>
+    <string name="quote_string21">"Live your beliefs and you can turn the world around."
+        <b>\n\n — Henry David Thoreau</b>
+    </string>
+    <string name="quote_string22">"Life is like riding a bicycle. To keep your balance, you must keep moving."
+        <b>\n\n – Albert Einstein </b>
+    </string>
+    <string name="quote_string23">"Don’t try to lessen yourself for the world; let the world catch up to you."
+        <b>\n\n — Beyoncé </b>
+    </string>
+    <string name="quote_string24">"If you don’t like the road you’re walking, start paving another one!."
+        <b>\n\n — Dolly Parton </b>
+    </string>
+    <string name="quote_string25">"We generate fears while we sit. We overcome them by action."
+        <b>\n\n — Dr. Henry Link </b>
+    </string>
+    <string name="quote_string26">"Dreams don’t have to just be dreams. You can make it a reality; if you just keep pushing and keep trying, then eventually you’ll reach your goal. And if that takes a few years, then that’s great, but if it takes 10 or 20, then that’s part of the process."
+        <b>\n\n - Naomi Osaka </b>
+    </string>
+    <string name="quote_string27">"I believe that if you’ll just stand up and go, life will open up for you. Something just motivates you to keep moving."
+        <b>\n\n — Tina Turner</b>
+    </string>
+    <string name="quote_string28">"What you get by achieving your goals is not as important as what you become by achieving your goals."
+        <b>\n\n – Zig Ziglar </b>
+    </string>
+    <string name="quote_string29">"I’m realizing how much I’ve diminished my own power. I’m not doing that no more."
+        <b>\n\n — Alicia Keys </b>
+    </string>
+    <string name="quote_string30">"A lot of people are afraid to say what they want. That’s why they don’t get what they want."
+        <b>\n\n — Madonna </b>
+    </string>
+    <string name="quote_string31">"The power of imagination makes us infinite."
+        <b>\n\n — John Muir</b>
+    </string>
+    <string name="quote_string32">"Perfection is not attainable, but if we chase perfection we can catch excellence."
+        <b>\n\n — Vince Lombardi </b>
+    </string>
+    <string name="quote_string33">"The only journey is the one within."
+        <b>\n\n — Rainer Maria Rilke</b>
+    </string>
+    <string name="quote_string34">"If my mind can conceive it, if my heart can believe it, then I can achieve it."
+        <b>\n\n — Muhammad Ali </b>
+    </string>
+    <string name="quote_string35">"Embrace the glorious mess that you are."
+        <b>\n\n — Elizabeth Gilbert </b>
+    </string>
+</resources>
