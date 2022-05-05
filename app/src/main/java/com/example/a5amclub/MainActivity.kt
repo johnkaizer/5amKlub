@@ -17,11 +17,12 @@ import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
 
-    var listQuotes= mutableListOf(
+    var listQuotes= mutableListOf(R.string.quote_string14,R.string.quote_string15,R.string.quote_string16,R.string.quote_string17,R.string.quote_string18,R.string.quote_string19,R.string.quote_string20,
+        R.string.quote_string21,R.string.quote_string22,R.string.quote_string23,R.string.quote_string24,
         R.string.quote_string1,R.string.quote_string2,R.string.quote_string3,R.string.quote_string4,R.string.quote_string5,R.string.quote_string6,R.string.quote_string7,R.string.quote_string8,R.string.quote_string9,R.string.quote_string10,
-        R.string.quote_string11,R.string.quote_string12,R.string.quote_string13,R.string.quote_string14,R.string.quote_string15,R.string.quote_string16,R.string.quote_string17,R.string.quote_string18,R.string.quote_string19,R.string.quote_string20,
-        R.string.quote_string21,R.string.quote_string22,R.string.quote_string23,R.string.quote_string24,R.string.quote_string25,R.string.quote_string26,R.string.quote_string27,R.string.quote_string28,R.string.quote_string29,R.string.quote_string30,
-        R.string.quote_string31,R.string.quote_string32,R.string.quote_string33,R.string.quote_string34,R.string.quote_string35
+        R.string.quote_string11,R.string.quote_string12,R.string.quote_string13,R.string.quote_string25,R.string.quote_string26,R.string.quote_string27,R.string.quote_string28,R.string.quote_string29,R.string.quote_string30,
+        R.string.quote_string31,R.string.quote_string32,R.string.quote_string33,R.string.quote_string34,R.string.quote_string35,R.string.quote_string36,R.string.quote_string37,R.string.quote_string38,R.string.quote_string39,R.string.quote_string40,
+        R.string.quote_string42,R.string.quote_string43,R.string.quote_string44,R.string.quote_string45,R.string.quote_string46,R.string.quote_string47,R.string.quote_string48,R.string.quote_string49,R.string.quote_string50
         )
     var quoteNumber=0
     var mainText =""

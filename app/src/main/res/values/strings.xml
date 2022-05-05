@@ -105,4 +105,49 @@
     <string name="quote_string35">"Embrace the glorious mess that you are."
         <b>\n\n — Elizabeth Gilbert </b>
     </string>
+    <string name="quote_string36">"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."
+        <b>\n\n ― Helen Keller </b>
+    </string>
+    <string name="quote_string37">"All our dreams can come true, if we have the courage to pursue them."
+        <b>\n\n – Walt Disney </b>
+    </string>
+    <string name="quote_string38">"I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life and that is why I succeed."
+        <b>\n\n – Michael Jordan </b>
+    </string>
+    <string name="quote_string39">"The best time to plant a tree was 20 years ago. The second best time is now."
+        <b>\n\n – Chinese Proverb </b>
+    </string>
+    <string name="quote_string40">"One man with courage makes a majority."
+        <b>\n\n – Andrew Jackson </b>
+    </string>
+        <string name="quote_string41">"He who conquers himself is the mightiest warrior."
+        <b>\n\n  — Confucius </b>
+    </string>
+        <string name="quote_string42">"Opportunity is missed by most people because it is dressed in overalls and looks like work."
+        <b>\n\n — Thomas Edison </b>
+    </string>
+        <string name="quote_string43">"Either you run the day or the day runs you."
+        <b>\n\n — Jim Rohn </b>
+    </string>
+        <string name="quote_string44">"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus."
+        <b>\n\n — Alexander Graham Bell </b>
+    </string>
+        <string name="quote_string45">"If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you."
+        <b>\n\n — Steve Jobs </b>
+    </string>
+        <string name="quote_string46">"Don’t let yesterday take up too much of today."
+        <b>\n\n  — Will Rogers </b>
+    </string>
+        <string name="quote_string47">"Success is not final; failure is not fatal: It is the courage to continue that counts."
+        <b>\n\n — Winston S. Churchill </b>
+    </string>
+        <string name="quote_string48">"Learn as if you will live forever, live like you will die tomorrow."
+        <b>\n\n — Mahatma Gandhi </b>
+    </string>
+        <string name="quote_string49">"We cannot solve problems with the kind of thinking we employed when we came up with them."
+        <b>\n\n — Albert Einstein </b>
+    </string>
+        <string name="quote_string50">"Whatever you think the world is withholding from you, you are withholding from the world."
+        <b>\n\n — Eckhart Tolle </b>
+    </string>
 </resources>

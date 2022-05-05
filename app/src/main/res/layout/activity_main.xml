@@ -30,7 +30,7 @@
         android:layout_alignParentBottom="true"
         android:layout_margin="16dp"
         android:focusable="true"
-        app:rippleColor="#FFFFFF"
+        app:rippleColor="#F30B0B"
         android:src="@drawable/refresh">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
