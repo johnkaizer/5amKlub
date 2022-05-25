@@ -153,6 +153,12 @@
     <string name="quote_string51">"Sales are contingent upon the attitude of the salesman -- not the attitude of the prospect."
         <b>\n\n -W. Clement Stone </b>
     </string>
+    <string name="quote_string52">"SAny time you beg another man to set you free, you will never be free. Freedom is something that you have to do for yourselves."
+        <b>\n\n -Malcolm X </b>
+    </string>
+    <string name="quote_string53">"You’re not to be so blind with patriotism that you can’t face reality. Wrong is wrong, no matter who does it or says it."
+        <b>\n\n -Malcolm X </b>
+    </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
